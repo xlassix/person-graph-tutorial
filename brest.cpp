@@ -11,6 +11,7 @@ int main(){
 
     // Accept input from users
     while (x1<=0){
+        
         cout << "Type x1(Kindly enter a number greater then 0): "; 
         cin >> x1; 
     }
