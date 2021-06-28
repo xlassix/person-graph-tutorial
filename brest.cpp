@@ -8,7 +8,6 @@ int main(){
     int gd=DETECT,gm;
     int x1=0,y1=0,y2=0,x2=0,dy,dx,p;
 
-
     // Accept input from users
     while (x1<=0){
         
